@@ -1,4 +1,4 @@
-# project-3
+# Streaming Guide App
 
 First, write a class named **Movie** that has four data members: **title**, **genre**, **director**, and **year**. It should have:
 * an init method that takes as arguments the title, genre, director, and year (in that order) and assigns them to the data members. The year is an integer and the others are strings.
